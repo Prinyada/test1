@@ -1,0 +1,29 @@
+.app-container {
+  text-align: center;
+  display: block;
+}
+
+input {
+  position: relative;
+  padding: 10px;
+  width: 250px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 300px;
+  margin: 0 auto;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  background-color: #ffffff;
+}
+
+th {
+  background-color: #ffc2c2;
+}
